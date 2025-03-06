@@ -9,6 +9,14 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/NewtonThomaz/NewtonThomaz/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h1 align="left">Ferramentas que ja trabalhei</h1>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -33,6 +41,9 @@
 
 ###
 
+<h1 align="left">Informações de contato</h1>
+
+###
 <div align="left">
   <a href="trocarDepois" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -47,15 +58,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NewtonThomaz/NewtonThomaz/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="left">Sobre mim</h1>
 
 ###
 
-<p align="left">Sou um desenvolvedor...</p>
+<p align="left">Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos aprendizados. Atualmente, estou no terceiro semestre de Análise e Desenvolvimento de Sistemas no Senai, aprimorando minhas habilidades. Meu objetivo é evoluir constantemente, explorando novas soluções e tendências do setor.</p>
 
 ###
 <!--
