@@ -1,4 +1,4 @@
-<h1 align="left">Olá eu sou o Newton  André Thomaz 👋</h1>
+<!-- <h1 align="left">Olá eu sou o Newton  André Thomaz 👋</h1>
 
 ###
 
@@ -80,4 +80,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
