@@ -5,7 +5,7 @@
 ### **Desenvolvedor Full-Stack | Java (Spring Boot), Next.js & TypeScript | DevOps & Embarcados (ESP32)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/newton-thomaz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:newanth07@gmail.com)
+[![Email](https://img.shields.io/badge/Email-newton.thz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:newton.thz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NewtonThomaz)
 
 ---
@@ -56,17 +56,23 @@ Engenheiro de software focado em **desenvolvimento de software robusto**, **arqu
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| 🔄 [**NextGen-DevOps-CI-CD**](https://github.com/NewtonThomaz/NextGen-DevOps-CI-CD) | Esteira automatizada de CI/CD para integração contínua e deploy simplificado de microsserviços. | `Docker` `GitHub Actions` `Linux` |
-| 🌐 [**Ecossistema NextGen**](https://github.com/NewtonThomaz/NextGen) | Arquitetura full-stack integrada promovendo alta disponibilidade, comunicação reativa e desacoplada. | `Java` `Spring Boot` `Next.js` `TypeScript` |
-| ⚡ [**Projetos IoT & Embarcados**](https://github.com/NewtonThomaz/IoT-ESP32) | Soluções de automação e telemetria utilizando microcontroladores ESP32 para monitoramento em tempo real. | `ESP32` `C++` `Protocols / MQTT` |
+| 🔄 [**NextGen-DevOps-CI-CD**](https://github.com/NewtonThomaz/NextGen-DevOps-CI-CD) | Esteira automatizada de CI/CD para integração contínua e deploy de microsserviços. | `Docker` `GitHub Actions` `Linux` |
+| 🌐 [**Ecossistema NextGen**](https://github.com/NewtonThomaz/BackendNextGen) | Arquitetura full-stack composta por [Backend (Spring Boot)](https://github.com/NewtonThomaz/BackendNextGen) e [Frontend (Next.js)](https://github.com/NewtonThomaz/FrontendNextGen). | `Java` `Spring Boot` `Next.js` `TypeScript` |
+| ⚡ [**Sistemas Embarcados & IoT**](https://github.com/NewtonThomaz/esp32-contador) | Projetos com ESP32 como o [Contador ESP32](https://github.com/NewtonThomaz/esp32-contador) e [Estudos de ADC](https://github.com/NewtonThomaz/estundado-adc-esp32). | `ESP32` `C++` `Sistemas Embarcados` |
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NewtonThomaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Newton Thomaz" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonThomaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens Mais Utilizadas" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NewtonThomaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Estatísticas do GitHub de Newton Thomaz" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonThomaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" alt="Linguagens Mais Utilizadas" height="165" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=NewtonThomaz&theme=tokyonight&hide_border=true" alt="GitHub Streak de Newton Thomaz" height="165" />
 </div>
 
 ---
@@ -75,7 +81,7 @@ Engenheiro de software focado em **desenvolvimento de software robusto**, **arqu
 
 Estou sempre aberto a discussões sobre **arquitetura de software**, **DevOps**, **IoT** e novas oportunidades de colaboração em projetos open-source ou desafiadores.
 
-- 💬 Entre em contato via [LinkedIn](https://www.linkedin.com/in/newton-thomaz) ou [E-mail](mailto:newanth07@gmail.com).
+- 💬 Entre em contato via [LinkedIn](https://www.linkedin.com/in/newton-thomaz) ou e-mail: `newton.thz@gmail.com` ([Enviar e-mail via Web Mail](https://mail.google.com/mail/?view=cm&fs=1&to=newton.thz@gmail.com) \| [mailto](mailto:newton.thz@gmail.com)).
 - ⚡ Curiosidade: Apaixonado por unir o mundo do software web/backend com o hardware e a automação do mundo real.
 
 <div align="center">
