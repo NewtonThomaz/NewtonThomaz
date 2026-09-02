@@ -75,7 +75,7 @@ Engenheiro de software focado em **desenvolvimento de software robusto**, **arqu
 
 Estou sempre aberto a discussões sobre **arquitetura de software**, **DevOps**, **IoT** e novas oportunidades de colaboração em projetos open-source ou desafiadores.
 
-- 💬 Entre em contato via [LinkedIn](https://www.linkedin.com/in/newton-thomaz) ou [E-mail](mailto:newanth07@gmail.com).
+- 💬 Entre em contato via [LinkedIn](https://www.linkedin.com/in/newtonthomaz) ou [E-mail](mailto:newanth07@gmail.com).
 - ⚡ Curiosidade: Apaixonado por unir o mundo do software web/backend com o hardware e a automação do mundo real.
 
 <div align="center">
