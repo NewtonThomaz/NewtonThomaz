@@ -1,83 +1,83 @@
-<!-- <h1 align="left">Olá eu sou o Newton  André Thomaz 👋</h1>
+<div align="center">
 
-###
+# 👋 Olá, eu sou Newton Thomaz
+
+### **Desenvolvedor Full-Stack | Java (Spring Boot), Next.js & TypeScript | DevOps & Embarcados (ESP32)**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/newton-thomaz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:newanth07@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NewtonThomaz)
+
+---
+
+</div>
+
+## 📌 Sobre Mim
+
+Engenheiro de software focado em **desenvolvimento de software robusto**, **arquitetura de sistemas distribuídos** e **automação de infraestrutura**. Tenho experiência na construção de aplicações escaláveis de ponta a ponta, desde APIs performáticas com Java/Spring Boot e Go até interfaces modernas e reativas com Next.js e TypeScript, além de integração com sistemas embarcados e IoT.
+
+🎓 **Formação Acadêmica & Técnica:**
+- **Análise e Desenvolvimento de Sistemas** — Fatec Itapetininga *(Em andamento)*
+- **Técnico em Desenvolvimento de Sistemas** — SENAI Sorocaba
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### ☕ Backend
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+
+### 💻 Frontend & Mobile
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
+
+### 🗄️ Bancos de Dados
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](#)
+
+### 🚀 DevOps & Infraestrutura
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
+
+### 🔌 Hardware & IoT
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
+[![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](#)
+
+---
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| 🔄 [**NextGen-DevOps-CI-CD**](https://github.com/NewtonThomaz/NextGen-DevOps-CI-CD) | Esteira automatizada de CI/CD para integração contínua e deploy simplificado de microsserviços. | `Docker` `GitHub Actions` `Linux` |
+| 🌐 [**Ecossistema NextGen**](https://github.com/NewtonThomaz/NextGen) | Arquitetura full-stack integrada promovendo alta disponibilidade, comunicação reativa e desacoplada. | `Java` `Spring Boot` `Next.js` `TypeScript` |
+| ⚡ [**Projetos IoT & Embarcados**](https://github.com/NewtonThomaz/IoT-ESP32) | Soluções de automação e telemetria utilizando microcontroladores ESP32 para monitoramento em tempo real. | `ESP32` `C++` `Protocols / MQTT` |
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NewtonThomaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NewtonThomaz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NewtonThomaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Newton Thomaz" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonThomaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens Mais Utilizadas" height="165" />
 </div>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/NewtonThomaz/NewtonThomaz/output/snake.svg" alt="Snake animation" />
+## 🤝 Vamos nos conectar?
 
-###
+Estou sempre aberto a discussões sobre **arquitetura de software**, **DevOps**, **IoT** e novas oportunidades de colaboração em projetos open-source ou desafiadores.
 
-<h1 align="left">Ferramentas que ja trabalhei</h1>
+- 💬 Entre em contato via [LinkedIn](https://www.linkedin.com/in/newton-thomaz) ou [E-mail](mailto:newanth07@gmail.com).
+- ⚡ Curiosidade: Apaixonado por unir o mundo do software web/backend com o hardware e a automação do mundo real.
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+<div align="center">
+  <sub>Desenvolvido com 💜 por <strong>Newton Thomaz</strong></sub>
 </div>
-
-###
-
-<h1 align="left">Informações de contato</h1>
-
-###
-<div align="left">
-  <a href="trocarDepois" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="trocarDepois" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="trocarDepois" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="left">Sobre mim</h1>
-
-###
-
-<p align="left">Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos aprendizados. Atualmente, estou no terceiro semestre de Análise e Desenvolvimento de Sistemas no Senai, aprimorando minhas habilidades. Meu objetivo é evoluir constantemente, explorando novas soluções e tendências do setor.</p>
-
-###
-<!--
-**NewtonThomaz/NewtonThomaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-## Olá eu sou o Newton Thomaz👋
-
-- 🌱 Estudando Analise e  Desenvolvimento de Sistemas
-- 📫 Contate-me no email: newanth07@gmail.com
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
