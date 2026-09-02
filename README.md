@@ -14,7 +14,7 @@
 
 ## 📌 Sobre Mim
 
-Engenheiro de software focado em **desenvolvimento de software robusto**, **arquitetura de sistemas distribuídos** e **automação de infraestrutura**. Tenho experiência na construção de aplicações escaláveis de ponta a ponta, desde APIs performáticas com Java/Spring Boot e Go até interfaces modernas e reativas com Next.js e TypeScript, além de integração com sistemas embarcados e IoT.
+Desenvolvedor de software focado em **desenvolvimento de software robusto**, **arquitetura de sistemas distribuídos** e **automação de infraestrutura**. Tenho experiência na construção de aplicações escaláveis de ponta a ponta, desde APIs performáticas com Java/Spring Boot e Go até interfaces modernas e reativas com Next.js e TypeScript, além de integração com sistemas embarcados e IoT.
 
 🎓 **Formação Acadêmica & Técnica:**
 - **Análise e Desenvolvimento de Sistemas** — Fatec Itapetininga *(Em andamento)*
